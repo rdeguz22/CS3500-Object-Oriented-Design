@@ -1,0 +1,29 @@
+{
+  "grammarTitle": "Basketball Play-by-Play",
+  "grammarDesc": "A grammar that generates random basketball play-by-play sentences.",
+  "start": [
+     "<player> <action> and <result>."
+   ],
+   "player": [
+     "LeBron James",
+     "Stephen Curry",
+     "Jalen Williams",
+     "Jayson Tatum",
+     "Anthony Edwards"
+   ],
+   "action": [
+     "drives to the basket",
+     "shoots a three-pointer",
+     "makes a quick pass",
+     "steals the ball",
+     "goes for a slam dunk"
+   ],
+   "result": [
+     "scores",
+     "misses",
+     "draws a foul",
+     "gets blocked",
+     "gets an assist"
+   ]
+}
+  

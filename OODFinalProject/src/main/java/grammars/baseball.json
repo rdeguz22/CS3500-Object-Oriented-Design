@@ -1,0 +1,28 @@
+{
+  "grammarTitle": "Baseball Play-by-Play",
+  "grammarDesc": "A grammar that generates random baseball play-by-play sentences.",
+  "start": [
+    "<batter> <action> <outcome>."
+   ],
+   "batter": [
+     "Shohei Ohtani",
+     "Aaron Judge",
+     "Mookie Betts",
+     "Juan Soto"
+   ],
+   "action": [
+     "swings at the pitch and",
+     "hits a ground ball and",
+     "lines one to left field and",
+     "pops up to the infield and",
+     "crushes a fastball and"
+   ],
+   "outcome": [
+     "gets a base hit",
+     "is caught out",
+     "hits a home run",
+     "advances the runner",
+     "strikes out"
+   ]
+}
+  
