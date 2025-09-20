@@ -1,2 +1,3 @@
-# Student_repo_Rico_de-_Guzman
-Repo for individual student assignments. 
+# CS3500 Object-Oriented Design
+Projects from CS3500 Object-Oriented Design
+Summer 1 2025
